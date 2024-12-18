@@ -1,0 +1,274 @@
+{
+    "users": {
+        "1": {
+            "Posteja": 10,
+            "Sanoja": 254,
+            "Sanoja keskimaarin": 25.4,
+            "Top 5 sanat": [
+                [
+                    "et",
+                    10
+                ],
+                [
+                    "aut",
+                    9
+                ],
+                [
+                    "ut",
+                    8
+                ],
+                [
+                    "quis",
+                    7
+                ],
+                [
+                    "qui",
+                    6
+                ]
+            ]
+        },
+        "2": {
+            "Posteja": 10,
+            "Sanoja": 240,
+            "Sanoja keskimaarin": 24.0,
+            "Top 5 sanat": [
+                [
+                    "qui",
+                    8
+                ],
+                [
+                    "aut",
+                    8
+                ],
+                [
+                    "et",
+                    7
+                ],
+                [
+                    "voluptas",
+                    7
+                ],
+                [
+                    "sit",
+                    5
+                ]
+            ]
+        },
+        "3": {
+            "Posteja": 10,
+            "Sanoja": 229,
+            "Sanoja keskimaarin": 22.9,
+            "Top 5 sanat": [
+                [
+                    "et",
+                    9
+                ],
+                [
+                    "sed",
+                    8
+                ],
+                [
+                    "aut",
+                    6
+                ],
+                [
+                    "omnis",
+                    6
+                ],
+                [
+                    "non",
+                    5
+                ]
+            ]
+        },
+        "4": {
+            "Posteja": 10,
+            "Sanoja": 277,
+            "Sanoja keskimaarin": 27.7,
+            "Top 5 sanat": [
+                [
+                    "et",
+                    10
+                ],
+                [
+                    "voluptatem",
+                    10
+                ],
+                [
+                    "aut",
+                    9
+                ],
+                [
+                    "qui",
+                    8
+                ],
+                [
+                    "in",
+                    8
+                ]
+            ]
+        },
+        "5": {
+            "Posteja": 10,
+            "Sanoja": 237,
+            "Sanoja keskimaarin": 23.7,
+            "Top 5 sanat": [
+                [
+                    "et",
+                    14
+                ],
+                [
+                    "est",
+                    7
+                ],
+                [
+                    "ut",
+                    6
+                ],
+                [
+                    "voluptatem",
+                    5
+                ],
+                [
+                    "aut",
+                    5
+                ]
+            ]
+        },
+        "6": {
+            "Posteja": 10,
+            "Sanoja": 221,
+            "Sanoja keskimaarin": 22.1,
+            "Top 5 sanat": [
+                [
+                    "et",
+                    15
+                ],
+                [
+                    "ut",
+                    7
+                ],
+                [
+                    "sunt",
+                    5
+                ],
+                [
+                    "est",
+                    5
+                ],
+                [
+                    "rerum",
+                    5
+                ]
+            ]
+        },
+        "7": {
+            "Posteja": 10,
+            "Sanoja": 234,
+            "Sanoja keskimaarin": 23.4,
+            "Top 5 sanat": [
+                [
+                    "et",
+                    9
+                ],
+                [
+                    "molestiae",
+                    6
+                ],
+                [
+                    "asperiores",
+                    6
+                ],
+                [
+                    "qui",
+                    5
+                ],
+                [
+                    "sint",
+                    5
+                ]
+            ]
+        },
+        "8": {
+            "Posteja": 10,
+            "Sanoja": 238,
+            "Sanoja keskimaarin": 23.8,
+            "Top 5 sanat": [
+                [
+                    "et",
+                    18
+                ],
+                [
+                    "qui",
+                    9
+                ],
+                [
+                    "aut",
+                    8
+                ],
+                [
+                    "dolorem",
+                    5
+                ],
+                [
+                    "quia",
+                    5
+                ]
+            ]
+        },
+        "9": {
+            "Posteja": 10,
+            "Sanoja": 223,
+            "Sanoja keskimaarin": 22.3,
+            "Top 5 sanat": [
+                [
+                    "et",
+                    9
+                ],
+                [
+                    "qui",
+                    7
+                ],
+                [
+                    "ut",
+                    7
+                ],
+                [
+                    "est",
+                    6
+                ],
+                [
+                    "consequatur",
+                    6
+                ]
+            ]
+        },
+        "10": {
+            "Posteja": 10,
+            "Sanoja": 232,
+            "Sanoja keskimaarin": 23.2,
+            "Top 5 sanat": [
+                [
+                    "et",
+                    9
+                ],
+                [
+                    "aut",
+                    7
+                ],
+                [
+                    "qui",
+                    7
+                ],
+                [
+                    "dicta",
+                    5
+                ],
+                [
+                    "est",
+                    5
+                ]
+            ]
+        }
+    }
+}
